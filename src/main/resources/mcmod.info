@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hobberclient",
+  "name": "HobberClient",
+  "description": "Utility and PVP client.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HobberCode", "Hobbs"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
